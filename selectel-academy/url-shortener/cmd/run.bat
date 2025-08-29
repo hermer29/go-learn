@@ -1,0 +1,1 @@
+CONFIG_PATH=./config/local.yaml ./cmd/url-shortener/main.go
